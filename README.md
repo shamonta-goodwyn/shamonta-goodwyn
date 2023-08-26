@@ -20,12 +20,12 @@ I'm a student in Cybersecurity and IT building my version of a safe digital worl
 ### 📺 Latest Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakoredmonds/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/shamonta-goodwyn/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/shamonta-goodwyn/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/shamonta-goodwyn/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/shamonta-goodwyn/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shamonta-goodwyn/azure-network-protocols)
 
 
 #

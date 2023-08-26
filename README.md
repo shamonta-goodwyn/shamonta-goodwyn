@@ -1,4 +1,4 @@
-# 🏄‍♂️ Shamonta Goodwyn
+# Shamonta Goodwyn
 
 **`Digital Security Eminence (Developer/Protector)`**
 
@@ -25,7 +25,7 @@ I'm a student in Cybersecurity and IT building my version of a safe digital worl
 
 ### 📊 Connect With Me!!!
 
-!www.linkedin.com/in/shamonta-goodwyn
+www.linkedin.com/in/shamonta-goodwyn
 
 #
 

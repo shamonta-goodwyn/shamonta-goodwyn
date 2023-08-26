@@ -26,7 +26,8 @@ I'm a student in Cybersecurity and IT building my version of a safe digital worl
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/shamonta-goodwyn/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shamonta-goodwyn/azure-network-protocols)
-
+- <b>Linode</b>
+  - [Install and Configuring SIEM](https://github.com/shamonta-goodwyn/wazuh-siem)
 
 #
 

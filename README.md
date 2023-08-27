@@ -19,6 +19,8 @@ I'm a student in Cybersecurity and IT building my version of a safe digital worl
 
 ### 📺 Latest Projects
 
+<b>Peppermint Help Desk</b>
+  - [Install and Configuring SIEM](https://github.com/shamonta-goodwyn/peppermint)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/shamonta-goodwyn/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/shamonta-goodwyn/post-install-config)
